@@ -1,0 +1,13 @@
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\bin\Release\SA Trainer 1.exe.config
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\bin\Release\SA Trainer 1.exe
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\bin\Release\SA Trainer 1.pdb
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\bin\Release\Memory.dll
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\bin\Release\Memory.xml
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA_Trainer_1.Form1.resources
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA_Trainer_1.Form2.resources
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA_Trainer_1.Properties.Resources.resources
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA Trainer 1.csproj.GenerateResource.cache
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA Trainer 1.csproj.CoreCompileInputs.cache
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA Trainer 1.csproj.CopyComplete
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA Trainer 1.exe
+C:\Users\shahriar0247\source\repos\SA Trainer 1\SA Trainer 1\obj\Release\SA Trainer 1.pdb
